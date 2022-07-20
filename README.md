@@ -1,2 +1,2 @@
-# skp-spring-boot-rest
+# Spring Boot and REST - Sample Code
 Spring Boot and REST Example
